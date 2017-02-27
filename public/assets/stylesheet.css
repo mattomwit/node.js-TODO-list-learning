@@ -1,0 +1,21 @@
+body{
+    background-color: dimgray;
+}
+
+div{
+    display:inline-block;
+    background-color: darkslategrey;
+    border-radius:15px;
+}
+
+li{
+    background-color: azure;
+    padding:2px;
+    border-radius:15px;
+}
+li:hover{
+    font-size:120%;
+    background-color: azure;
+    padding:6px;
+    border-radius:15px;
+}
